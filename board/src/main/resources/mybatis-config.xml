@@ -4,6 +4,6 @@
 <configuration>
     <typeAliases>
         <typeAlias type="com.hyun.board.dto.BoardDTO" alias="board"></typeAlias>
-<!--        <typeAlias type="com.hyun.board.dto.BoardFileDTO" alias="boardFile"></typeAlias>-->
+        <typeAlias type="com.hyun.board.dto.BoardFileDTO" alias="boardFile"></typeAlias>
     </typeAliases>
 </configuration>

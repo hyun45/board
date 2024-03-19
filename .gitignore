@@ -1,6 +1,7 @@
 .gradle
 **/build/
 !src/**/build/
+/upload_files
 
 # Ignore Gradle GUI config
 gradle-app.setting
